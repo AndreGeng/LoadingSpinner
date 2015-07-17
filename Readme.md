@@ -4,4 +4,4 @@
 
 ![Preview][ImgPreview]
 
-[ImgPreview]: /preview.git
+[ImgPreview]: https://github.com/AndreGeng/LoadingSpinner/blob/master/preview.gif
