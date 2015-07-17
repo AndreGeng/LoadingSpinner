@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content">
+    <View
+        android:id="@+id/dot_left"
+        android:layout_marginBottom="30dp"
+        android:layout_width="@dimen/loading_dot_size"
+        android:layout_height="@dimen/loading_dot_size"
+        android:background="@drawable/loading_normal_dot_bg"
+        android:layout_marginRight="@dimen/loading_dot_padding"
+        />
+    <View
+        android:id="@+id/active_dot"
+        android:layout_width="@dimen/loading_dot_size"
+        android:layout_height="@dimen/loading_dot_size"
+        android:background="@drawable/loading_active_dot_bg"
+        android:layout_marginBottom="30dp"
+        />
+    <View
+        android:id="@+id/dot_right"
+        android:layout_marginBottom="30dp"
+        android:layout_width="@dimen/loading_dot_size"
+        android:layout_height="@dimen/loading_dot_size"
+        android:background="@drawable/loading_normal_dot_bg"
+        android:layout_marginLeft="@dimen/loading_dot_padding"
+        />
+</merge>

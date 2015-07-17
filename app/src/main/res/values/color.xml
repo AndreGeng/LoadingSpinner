@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dot_normal">#fff</color>
+    <color name="dot_active">#ffd600</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <integer name="dot_ani_duration">5000</integer>
+
+    <string name="app_name">LoadingAni</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
